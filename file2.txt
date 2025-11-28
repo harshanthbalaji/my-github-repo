@@ -1,0 +1,3 @@
+This is the second file in my GitHub repository.
+Here I can demonstrate multiple files and organize my code.
+Version control helps track changes over time.
