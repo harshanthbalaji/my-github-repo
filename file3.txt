@@ -1,0 +1,4 @@
+This is the third file to complete the task.
+Adding multiple files helps organize the repository.
+Git is essential for software development and collaboration.
+Happy coding!
