@@ -1,0 +1,3 @@
+This is my first file in the GitHub repository.
+This file demonstrates how to add files to a repository.
+Let's keep it simple and informative.
